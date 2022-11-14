@@ -2,7 +2,7 @@
   "name": "dangth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dagcoi.github.io/",
+  "homepage": "https://dagcoi.github.io/dangth",
   "dependencies": {
     "@rumess/react-flip-countdown": "^1.2.6",
     "@testing-library/jest-dom": "^5.14.1",
